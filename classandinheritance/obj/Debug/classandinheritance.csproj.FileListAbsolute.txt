@@ -1,0 +1,7 @@
+C:\Users\2022\Desktop\classandinheritance\classandinheritance\bin\Debug\classandinheritance.exe.config
+C:\Users\2022\Desktop\classandinheritance\classandinheritance\bin\Debug\classandinheritance.exe
+C:\Users\2022\Desktop\classandinheritance\classandinheritance\bin\Debug\classandinheritance.pdb
+C:\Users\2022\Desktop\classandinheritance\classandinheritance\obj\Debug\classandinheritance.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\classandinheritance\classandinheritance\obj\Debug\classandinheritance.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\classandinheritance\classandinheritance\obj\Debug\classandinheritance.exe
+C:\Users\2022\Desktop\classandinheritance\classandinheritance\obj\Debug\classandinheritance.pdb
